@@ -1,0 +1,26 @@
+{
+  "name": "啃书小狗",
+  "short_name": "啃书小狗",
+  "description": "像养一只小狗一样管理你的读书与藏书记录",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2b1c14",
+  "theme_color": "#5c8a47",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
